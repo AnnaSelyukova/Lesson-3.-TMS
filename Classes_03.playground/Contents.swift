@@ -1,3 +1,6 @@
-import UIKit
+let classesThree = " Первая домашка на гите"
 
-var greeting = "Hello, playground"
+func classes() {
+    print(classesThree)
+}
+classes()
